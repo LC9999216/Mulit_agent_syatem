@@ -1,0 +1,143 @@
+# NVDA Research Report
+
+Request ID: `req-edc190c5558e`
+
+One-liner: NVDA remains a high-momentum name where disclosed demand commentary is currently supported by strong reported profitability and cash generation.
+
+Confidence: `medium`
+
+## Executive Summary
+
+- NVDA still has strong operating support in the current evidence set: NVIDIA describes its CUDA-led software stack as a core enabler of AI and accelerated computing workloads. At the same time, nVDA is trading in a more mixed range-like setup, so entries should be staged rather than chased.
+- NVIDIA describes its CUDA-led software stack as a core enabler of AI and accelerated computing workloads.
+- NVDA revenue growth remains elevated at 65%.
+- Gross margin remains strong at 71%.
+
+## Latest Price Analysis
+
+- NVDA is trading around 201.68 and the trend currently reads as range.
+- The stock is sitting around 91% of its 52-week range, which suggests the market is still pricing in a strong operating backdrop.
+- Nearest support sits near 192.00, while near-term resistance sits near 212.19.
+- Valuation remains demanding at roughly 21.0x sales, so upside still depends on sustained high execution.
+
+## Important News
+
+- Despite Nvidia's strong Q1 2027 guidance with expected $78 billion in sales and 74.9% gross margin, historical patterns suggest the stock may decline following its May 20 earnin...
+  Source: The Motley Fool / May 21 Could Be a Terrible Day for AI Titan Nvidia, Based on What History Tells Us <https://www.fool.com/investing/2026/04/20/may-21-terrible-day-ai-titan-nvda-based-on-history/?source=iedfolrf0000001>
+- Nvidia's stock has retreated 4% from its 52-week high despite strong business fundamentals, but Wall Street analysts remain bullish with a median 12-month price target of $267.5...
+  Source: The Motley Fool / Will Nvidia Be Worth $6 Trillion a Year From Now? Wall Street Has a Clear Answer. <https://www.fool.com/investing/2026/04/19/will-nvidia-be-worth-6-trillion-a-year-from-now-wa/?source=iedfolrf0000001>
+
+## Bullish Factors
+
+- Gross margin remains strong at 71%.
+  Source: NVDA ratios <https://financialmodelingprep.com/stable/ratios?symbol=NVDA>
+- Free cash flow margin is approximately 45%.
+  Source: NVDA cash flow statement <https://financialmodelingprep.com/stable/cash-flow-statement?symbol=NVDA>
+  Source: NVDA income statement <https://financialmodelingprep.com/stable/income-statement?symbol=NVDA>
+
+## Bearish Factors
+
+- NVIDIA flags regulatory, import, and export-control requirements as risks that could increase costs and adversely affect operating results.
+  Source: 10-K 2026-02-25 / Risk Factors <https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm>
+- Price-to-sales remains elevated near 21.0x, reinforcing how much future growth the market is already discounting.
+  Source: NVDA valuation metrics <https://financialmodelingprep.com/stable/ratios?symbol=NVDA>
+
+## Short-Term Plan
+
+- Bias: neutral
+- Entry Context: Treat this as a range trade and wait for pullbacks toward support before adding risk.
+- Target Price: 217.81
+- Stop Loss: 192.0
+- Position Size: 12.0
+- Rationale: NVDA is currently in a range technical setup.
+- Rationale: Support is anchored near 192.00 and resistance is near 212.19.
+- Invalidator: A decisive break below 192.00 would invalidate the current short term setup.
+
+## Mid-Term Plan
+
+- Bias: bullish
+- Entry Context: Use staged entries while the primary trend remains intact and avoid oversized chasing after sharp extensions.
+- Target Price: 225.88
+- Stop Loss: 192.0
+- Position Size: 20.0
+- Rationale: NVDA is currently in a range technical setup.
+- Rationale: Support is anchored near 192.00 and resistance is near 212.19.
+- Invalidator: A decisive break below 192.00 would invalidate the current mid term setup.
+
+## Long-Term Thesis
+
+- NVIDIA describes its CUDA-led software stack as a core enabler of AI and accelerated computing workloads.
+- Gross margin remains strong at 71%.
+- Long-term upside still depends on justifying today's premium valuation: Price-to-sales remains elevated near 21.0x, reinforcing how much future growth the market is already discounting.
+
+## Long-Term Conditions
+
+- NVDA data center and AI demand must remain structurally strong.
+- Gross margin and cash generation must stay elevated enough to support a premium multiple.
+- Regulatory or export restrictions must not materially worsen.
+- NVIDIA flags regulatory, import, and export-control requirements as risks that could increase costs and adversely affect operating results.
+
+## Base Case
+
+- NVDA's base case assumes current operating momentum remains positive but moderates from unusually strong recent growth.
+- The current thesis depends on strong profitability and cash generation continuing as demand normalizes.
+- The base case still requires close monitoring of the main downside risks highlighted in filings and validation checks.
+
+## Facts
+
+- NVIDIA describes its CUDA-led software stack as a core enabler of AI and accelerated computing workloads.
+  Source: 10-K 2026-02-25 / Business <https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm>
+- NVDA revenue growth remains elevated at 65%.
+  Source: NVDA income statement growth <https://financialmodelingprep.com/stable/income-statement-growth?symbol=NVDA>
+
+## Bull Case
+
+- Gross margin remains strong at 71%.
+  Source: NVDA ratios <https://financialmodelingprep.com/stable/ratios?symbol=NVDA>
+- Free cash flow margin is approximately 45%.
+  Source: NVDA cash flow statement <https://financialmodelingprep.com/stable/cash-flow-statement?symbol=NVDA>
+  Source: NVDA income statement <https://financialmodelingprep.com/stable/income-statement?symbol=NVDA>
+
+## Bear Case
+
+- NVIDIA flags regulatory, import, and export-control requirements as risks that could increase costs and adversely affect operating results.
+  Source: 10-K 2026-02-25 / Risk Factors <https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm>
+- Fueled by the sustained demand for exceptional 3D graphics and the scale of the gaming market, NVIDIA has leveraged its GPU architecture to create platforms for scientific computing, AI, data science, autonomous vehicles, robotics, and digital twin applications. Risk Factors,” our Consolidated Financial Statements and related Notes thereto, as well as other cautionary statements and risks describe
+  Source: 10-K 2026-02-25 / MD&A <https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm>
+
+## Decision View
+
+- Continue tracking NVDA, but keep the stance execution-sensitive: Gross margin remains strong at 71% However, price-to-sales remains elevated near 21.0x, reinforcing how much future growth the market is already discounting.
+
+## Thesis Breakers
+
+- If export control, regulatory, or geopolitical restrictions tighten further, the NVDA thesis weakens because shipment capacity, customer access, or product mix could deteriorate.
+- If fueled by the sustained demand for exceptional 3D graphics and the scale of the gaming market, NVIDIA has leveraged its GPU architecture to create platforms for scientific computing, AI, data science, autonomous vehicles, robotics, and digital twin applications. Risk Factors,” our Consolidated Financial Statements and related Notes thereto, as well as other cautionary statements and risks describe, the NVDA thesis weakens.
+
+## Uncertainties
+
+- Sustained demand strength for NVDA still needs confirmation across upcoming reporting periods.
+
+## Key Monitoring Items
+
+- Gross margin trajectory
+- Free cash flow margin
+
+## Limitations
+
+- None
+
+## Citations
+
+- NVDA quote: <https://financialmodelingprep.com/stable/quote?symbol=NVDA>
+- NVDA valuation metrics: <https://financialmodelingprep.com/stable/ratios?symbol=NVDA>
+- NVDA price history: <https://financialmodelingprep.com/stable/stock-price-change?symbol=NVDA>
+- NVDA ratios: <https://financialmodelingprep.com/stable/ratios?symbol=NVDA>
+- NVDA cash flow statement: <https://financialmodelingprep.com/stable/cash-flow-statement?symbol=NVDA>
+- NVDA income statement: <https://financialmodelingprep.com/stable/income-statement?symbol=NVDA>
+- 10-K 2026-02-25 / Risk Factors: <https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm>
+- 10-K 2026-02-25 / Business: <https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm>
+- NVDA income statement growth: <https://financialmodelingprep.com/stable/income-statement-growth?symbol=NVDA>
+- 10-K 2026-02-25 / MD&A: <https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm>
+- The Motley Fool / May 21 Could Be a Terrible Day for AI Titan Nvidia, Based on What History Tells Us: <https://www.fool.com/investing/2026/04/20/may-21-terrible-day-ai-titan-nvda-based-on-history/?source=iedfolrf0000001>
+- The Motley Fool / Will Nvidia Be Worth $6 Trillion a Year From Now? Wall Street Has a Clear Answer.: <https://www.fool.com/investing/2026/04/19/will-nvidia-be-worth-6-trillion-a-year-from-now-wa/?source=iedfolrf0000001>
